@@ -1,0 +1,11 @@
+.card {
+  border: 1px solid #ccc;
+  width: 250px;
+  height: 150px;
+  padding: 20px;
+  margin: 15px;
+}
+
+.heading {
+  font-weight: bold;
+}
